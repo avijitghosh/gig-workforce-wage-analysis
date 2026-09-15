@@ -1,0 +1,221 @@
+WorkerID,Age,Gender,Industry,JobType,ExperienceYears,WeeklyHours,PlatformRating,HourlyWage
+1001,35,Male,Rideshare,Part-time,5.6,26.5,4.27,18.73
+1002,26,Female,Graphic Design,Part-time,3.1,13.4,4.51,31.08
+1003,30,Male,Food Delivery,Part-time,3.6,14.8,4.54,12.84
+1004,40,Male,Food Delivery,Part-time,10.9,25.5,3.3,15.61
+1005,38,Female,Food Delivery,Part-time,9.0,27.8,4.43,15.65
+1006,31,Female,Home Services,Full-time,6.1,37.7,4.9,10.78
+1007,32,Male,IT Consulting,Part-time,7.7,25.2,4.51,40.48
+1008,34,Female,Rideshare,Part-time,6.8,14.1,4.26,10.45
+1009,24,Male,Graphic Design,Part-time,2.5,16.6,4.92,12.23
+1010,31,Male,Food Delivery,Part-time,5.9,31.7,4.81,13.8
+1011,28,Non-binary,IT Consulting,Full-time,4.0,33.0,4.34,50.2
+1012,21,Female,,Full-time,1.6,16.4,4.75,36.33
+1013,33,Female,Graphic Design,Part-time,4.7,18.6,4.45,29.6
+1014,31,Male,Home Services,Part-time,3.9,47.6,4.79,23.08
+1015,20,Female,Freelance Writing,Part-time,0.4,32.8,4.83,22.48
+1016,26,Female,Home Services,Full-time,4.2,24.3,3.83,107.89
+1017,31,Male,Food Delivery,Full-time,2.4,26.1,3.87,16.58
+1018,18,Male,Food Delivery,Part-time,0.0,15.7,3.43,20.86
+1019,33,Female,Food Delivery,Full-time,4.4,14.7,4.76,6.0
+1020,34,Female,Rideshare,Part-time,8.7,37.3,3.59,19.22
+1021,37,Male,Freelance Writing,Part-time,3.8,40.7,4.95,14.83
+1022,27,Male,Food Delivery,Part-time,2.2,19.1,3.82,17.29
+1023,21,Male,Graphic Design,Part-time,1.4,40.4,4.02,33.19
+1024,37,Male,Rideshare,Part-time,5.8,19.5,4.89,14.16
+1025,88,Female,Food Delivery,Full-time,1.0,30.5,4.47,12.29
+1026,36,Female,Food Delivery,Full-time,4.1,34.5,4.81,13.91
+1027,27,Female,Rideshare,Part-time,1.9,21.4,3.96,16.53
+1028,24,Male,Freelance Writing,Full-time,3.0,35.7,3.67,20.75
+1029,34,Female,Food Delivery,Full-time,6.2,38.8,4.48,18.46
+1030,41,Female,Food Delivery,Full-time,10.7,16.2,4.42,7.85
+1031,31,Female,Rideshare,Part-time,3.9,21.4,3.76,13.75
+1032,30,Male,Home Services,Full-time,4.1,15.5,4.16,111.95
+1033,18,Female,Home Services,Full-time,0.0,34.2,4.93,18.39
+1034,39,Male,Freelance Writing,Part-time,10.8,20.3,4.66,20.47
+1035,33,Female,Food Delivery,Part-time,5.8,14.9,1.13,12.82
+1036,30,Male,IT Consulting,Part-time,5.1,27.5,4.77,56.99
+1037,42,Male,Freelance Writing,Full-time,4.3,18.7,4.66,26.28
+1038,19,Male,Food Delivery,Part-time,0.3,17.0,4.89,8.8
+1039,28,Female,IT Consulting,Part-time,3.8,42.0,4.7,30.66
+1040,32,Male,Food Delivery,Part-time,4.6,25.1,4.49,12.37
+1041,30,Female,Graphic Design,Part-time,3.3,35.9,4.59,24.99
+1042,18,Female,Food Delivery,Part-time,0.0,21.2,4.8,17.55
+1043,35,Female,Food Delivery,Part-time,4.2,28.5,4.74,13.54
+1044,32,Male,Graphic Design,Part-time,7.2,28.2,4.19,
+1045,40,Female,Rideshare,Part-time,5.1,8.6,,24.36
+1046,48,Non-binary,Freelance Writing,Full-time,13.1,22.3,4.7,126.18
+1047,30,Female,Freelance Writing,Part-time,4.2,13.2,,23.06
+1048,35,Male,Rideshare,Full-time,7.5,31.4,3.84,20.63
+1049,34,Male,,Part-time,5.0,29.3,3.32,27.72
+1050,33,Female,Freelance Writing,Part-time,4.4,32.4,4.39,24.15
+1051,31,Male,Graphic Design,Full-time,5.3,31.9,4.12,22.71
+1052,35,Male,Food Delivery,Part-time,9.1,29.9,4.12,11.86
+1053,41,Male,Food Delivery,Part-time,9.8,22.2,4.56,
+1054,25,Male,Freelance Writing,Part-time,1.1,25.3,4.76,28.18
+1055,47,Male,Food Delivery,Part-time,4.7,24.2,4.72,115.71
+1056,36,Male,Graphic Design,Part-time,4.2,25.9,4.12,25.02
+1057,34,Male,Freelance Writing,Full-time,4.7,27.6,4.71,33.15
+1058,18,Female,Food Delivery,Full-time,0.0,22.9,4.07,13.27
+1059,32,Female,Rideshare,Full-time,7.4,26.5,2.16,16.79
+1060,24,Female,Home Services,Full-time,1.5,14.7,3.26,24.54
+1061,37,Male,Freelance Writing,Part-time,6.3,19.1,3.83,25.6
+1062,40,Female,,Full-time,4.5,29.4,,13.43
+1063,41,Male,Freelance Writing,Full-time,6.3,25.9,4.0,20.73
+1064,31,Female,Rideshare,Part-time,4.8,45.8,3.92,22.89
+1065,31,Female,IT Consulting,Part-time,4.1,31.1,4.25,33.26
+1066,35,Female,IT Consulting,Part-time,3.2,25.1,4.64,
+1067,18,Female,Rideshare,Part-time,0.0,25.0,4.72,21.05
+1068,29,Female,Food Delivery,Part-time,5.9,16.6,4.88,19.01
+1069,28,Female,Graphic Design,Part-time,2.4,62.8,3.42,19.09
+1070,36,Male,Food Delivery,Part-time,4.3,38.2,4.79,17.52
+1071,28,Female,Freelance Writing,Full-time,4.5,12.8,4.3,24.37
+1072,38,Male,Food Delivery,Full-time,6.6,27.6,3.77,13.66
+1073,30,Non-binary,Home Services,Part-time,2.0,26.4,3.53,20.77
+1074,39,Female,IT Consulting,Part-time,3.6,30.4,4.48,
+1075,50,Male,Home Services,Part-time,17.4,42.0,4.56,24.37
+1076,44,Non-binary,Graphic Design,Part-time,11.4,30.9,4.54,30.57
+1077,40,Male,Rideshare,Full-time,7.8,19.6,4.41,18.52
+1078,41,Male,IT Consulting,Full-time,4.9,40.9,4.45,38.02
+1079,29,Male,Rideshare,Part-time,5.7,44.5,4.41,14.77
+1080,26,Female,Food Delivery,Part-time,2.4,45.2,4.27,13.6
+1081,25,Male,Food Delivery,Part-time,2.0,24.8,4.41,10.72
+1082,84,Male,Graphic Design,Full-time,7.5,17.0,4.29,30.17
+1083,44,Male,Freelance Writing,Full-time,12.4,15.3,4.95,
+1084,,Male,Rideshare,Part-time,1.3,21.6,3.15,15.78
+1085,36,Female,Rideshare,Full-time,6.7,32.8,4.12,12.53
+1086,,Male,Freelance Writing,Full-time,1.2,26.7,4.08,17.41
+1087,22,Male,,Part-time,2.2,31.5,4.39,32.11
+1088,39,Non-binary,Freelance Writing,Full-time,5.8,16.4,4.77,18.67
+1089,27,Female,Freelance Writing,Part-time,2.4,15.6,4.63,14.75
+1090,26,Male,Home Services,Full-time,3.3,11.8,4.62,
+1091,48,Male,IT Consulting,Full-time,15.3,22.1,3.76,39.61
+1092,33,Male,,Part-time,6.1,35.4,4.23,21.65
+1093,32,Female,IT Consulting,Part-time,5.2,17.4,4.71,61.33
+1094,30,Non-binary,Home Services,Part-time,2.4,29.8,4.8,23.57
+1095,35,Male,Graphic Design,Part-time,4.3,13.9,2.67,20.95
+1096,26,Female,Graphic Design,Full-time,3.8,35.1,3.36,32.35
+1097,32,Male,Freelance Writing,Full-time,2.9,21.0,4.68,21.1
+1098,41,Female,IT Consulting,Part-time,12.1,65.0,4.7,53.31
+1099,29,Male,Rideshare,Full-time,5.8,32.8,4.95,25.99
+1100,18,Male,Freelance Writing,Full-time,0.0,18.5,3.56,20.94
+1101,27,Male,Home Services,Part-time,2.4,62.7,4.21,12.67
+1102,38,Male,Rideshare,Part-time,10.4,19.8,3.07,139.97
+1103,41,Male,Graphic Design,Full-time,10.8,20.2,4.44,25.26
+1104,,Female,Food Delivery,Part-time,7.6,15.2,5.0,
+1105,43,Male,Home Services,Part-time,5.2,38.5,4.23,11.17
+1106,24,Male,Rideshare,Part-time,2.4,18.6,2.94,19.64
+1107,42,Female,Freelance Writing,Full-time,11.4,40.3,4.03,28.91
+1108,34,Female,Home Services,Part-time,3.9,24.5,4.39,21.82
+1109,37,Male,Graphic Design,Part-time,4.8,32.6,,34.49
+1110,18,Male,Food Delivery,Part-time,0.0,29.6,3.6,12.73
+1111,39,Male,Graphic Design,Full-time,9.9,19.0,4.37,36.38
+1112,34,Female,Food Delivery,Part-time,3.0,7.6,4.71,17.34
+1113,47,Female,Graphic Design,Full-time,12.5,25.0,4.88,39.42
+1114,34,Male,Rideshare,Part-time,6.1,24.7,4.51,8.87
+1115,24,Male,Food Delivery,Part-time,2.6,29.2,4.75,
+1116,26,Male,Rideshare,Full-time,1.7,27.8,4.61,20.35
+1117,35,Male,Rideshare,Part-time,9.1,20.2,3.69,18.06
+1118,34,Female,Freelance Writing,Part-time,3.4,29.5,4.7,16.87
+1119,27,Male,Rideshare,Part-time,4.3,12.3,4.69,16.81
+1120,23,Male,Freelance Writing,Part-time,0.8,31.6,4.81,28.27
+1121,44,Male,Graphic Design,Part-time,11.4,23.6,3.49,34.96
+1122,30,Female,Home Services,Part-time,3.3,27.2,4.83,22.02
+1123,31,Female,Food Delivery,Full-time,3.9,54.6,4.85,14.75
+1124,17,Male,Food Delivery,Part-time,5.0,24.4,4.7,16.23
+1125,43,Female,Food Delivery,Part-time,7.7,42.3,4.69,14.2
+1126,41,Male,Rideshare,Part-time,8.4,33.3,4.95,25.01
+1127,24,Non-binary,Graphic Design,Part-time,2.4,26.7,4.84,23.61
+1128,31,Male,Home Services,Full-time,2.0,17.3,3.67,131.03
+1129,25,Male,Food Delivery,Full-time,3.0,22.8,4.92,13.64
+1130,,Male,Freelance Writing,Part-time,15.4,46.0,2.85,32.17
+1131,79,Male,IT Consulting,Full-time,5.6,16.1,4.2,39.51
+1132,30,Non-binary,Graphic Design,Part-time,5.8,14.3,4.81,33.14
+1133,29,Male,Home Services,Full-time,2.7,28.8,4.59,20.22
+1134,36,Male,Home Services,Full-time,6.6,35.8,4.42,17.99
+1135,30,Female,Rideshare,Full-time,3.0,37.7,4.5,3.96
+1136,44,Female,Graphic Design,Part-time,6.1,31.9,4.52,26.23
+1137,25,Male,Graphic Design,Full-time,2.8,17.8,4.6,38.88
+1138,22,Female,Home Services,Part-time,0.6,27.1,4.85,
+1139,43,Female,Food Delivery,Full-time,13.6,29.0,4.67,6.0
+1140,29,Male,Graphic Design,Part-time,4.7,46.0,4.69,28.76
+1141,43,Male,Freelance Writing,Part-time,6.4,32.3,4.79,15.11
+1142,39,Female,Food Delivery,Full-time,8.2,28.6,4.92,7.32
+1143,21,Female,Rideshare,Part-time,0.5,12.4,4.79,13.97
+1144,27,Male,Food Delivery,Part-time,3.7,41.9,4.51,9.0
+1145,32,Female,IT Consulting,Part-time,6.8,35.7,4.86,58.97
+1146,30,Male,Rideshare,Full-time,5.7,7.2,4.51,17.19
+1147,34,Female,Rideshare,Part-time,3.2,20.0,4.69,19.0
+1148,27,Male,Food Delivery,Full-time,1.9,22.1,4.95,11.7
+1149,31,Female,Rideshare,Part-time,5.4,18.7,4.51,15.73
+1150,40,Female,Food Delivery,Full-time,5.8,11.2,4.34,11.95
+1151,43,Female,,Full-time,13.0,46.7,4.62,48.7
+1152,26,Male,Food Delivery,Full-time,3.0,25.8,4.84,6.0
+1153,30,Non-binary,,Part-time,4.5,65.0,4.25,21.84
+1154,31,Female,Rideshare,Part-time,5.9,47.4,4.45,20.64
+1155,21,Female,Graphic Design,Part-time,1.5,17.9,4.41,38.42
+1156,40,Female,Rideshare,Full-time,7.4,22.3,4.67,19.73
+1157,37,Male,Home Services,Part-time,7.1,27.8,2.97,20.82
+1158,36,Female,Food Delivery,Full-time,3.3,31.9,3.91,7.32
+1159,31,Male,Rideshare,Full-time,6.8,36.6,4.61,16.68
+1160,39,Female,Home Services,Part-time,10.7,28.3,4.47,8.99
+1161,40,Male,Freelance Writing,Full-time,3.8,22.6,4.82,16.45
+1162,41,Male,Food Delivery,Part-time,6.7,28.7,3.36,13.16
+1163,31,Male,Food Delivery,Part-time,6.6,15.1,4.79,12.9
+1164,35,Female,Home Services,Full-time,6.5,22.5,4.48,24.92
+1165,29,Male,Food Delivery,Part-time,3.1,14.7,4.52,12.87
+1166,29,Male,Rideshare,Full-time,3.2,25.8,4.57,10.31
+1167,40,Male,IT Consulting,Full-time,9.1,28.4,4.31,38.76
+1168,32,Female,Rideshare,Part-time,6.0,17.8,4.79,12.56
+1169,31,Male,Rideshare,Part-time,2.7,36.0,4.66,20.81
+1170,37,Male,Food Delivery,Full-time,6.2,37.1,3.69,8.19
+1171,37,Male,Rideshare,Part-time,9.2,16.1,4.83,13.75
+1172,26,Female,Food Delivery,Full-time,3.9,38.0,4.59,17.54
+1173,27,Male,Freelance Writing,Part-time,3.9,37.5,4.91,16.64
+1174,38,Male,IT Consulting,Full-time,9.5,20.8,2.69,49.66
+1175,36,Male,IT Consulting,Part-time,7.6,40.4,4.72,
+1176,30,Male,Rideshare,Part-time,5.8,29.9,4.7,1.32
+1177,42,Female,Home Services,Full-time,7.0,59.4,4.85,10.08
+1178,31,Male,Rideshare,Part-time,2.3,16.5,4.41,16.08
+1179,18,Female,,Part-time,0.0,34.5,4.68,17.02
+1180,26,Female,Food Delivery,Part-time,3.1,23.7,4.44,15.06
+1181,20,Male,,Full-time,0.3,23.1,4.27,15.3
+1182,41,Male,Graphic Design,Full-time,11.2,43.3,4.37,29.73
+1183,36,Male,Home Services,Full-time,4.1,33.0,4.56,23.63
+1184,33,Female,IT Consulting,Full-time,7.2,26.6,,62.54
+1185,18,Male,Food Delivery,Full-time,0.0,25.8,4.02,12.06
+1186,20,Male,Graphic Design,Part-time,0.4,20.8,3.8,20.85
+1187,31,Female,Graphic Design,Full-time,3.9,16.7,4.67,32.51
+1188,18,Male,Rideshare,Part-time,0.0,18.0,4.43,11.26
+1189,40,Non-binary,Graphic Design,Full-time,5.1,15.0,4.89,19.68
+1190,31,Female,Food Delivery,Part-time,2.7,20.4,4.48,12.75
+1191,31,Female,Rideshare,Full-time,7.0,40.5,3.89,1.19
+1192,31,Male,Freelance Writing,Part-time,4.2,29.8,4.0,30.82
+1193,24,Male,Food Delivery,Part-time,2.2,31.9,4.29,17.74
+1194,24,Male,Freelance Writing,Part-time,1.0,19.2,4.75,8.57
+1195,18,Non-binary,Graphic Design,Full-time,0.0,39.3,4.79,10.34
+1196,32,Male,Freelance Writing,Full-time,5.5,22.5,4.33,17.97
+1197,,Male,IT Consulting,Part-time,4.8,24.5,3.13,51.25
+1198,30,Male,Rideshare,Part-time,3.2,15.9,4.94,19.04
+1199,30,Female,Food Delivery,Full-time,2.6,34.5,3.77,19.52
+1200,24,Female,Food Delivery,Part-time,2.7,10.6,4.3,15.11
+1201,34,Male,Home Services,Full-time,8.4,19.3,4.9,14.0
+1202,18,Female,Graphic Design,Part-time,0.0,18.0,4.11,29.04
+1203,23,Female,Rideshare,Part-time,1.5,38.8,4.01,10.8
+1204,27,Female,Home Services,Part-time,2.4,36.1,3.32,15.3
+1205,28,Female,Home Services,Full-time,2.2,21.0,4.79,10.99
+1206,34,Male,Home Services,Full-time,4.4,36.2,3.81,14.94
+1207,30,Male,Rideshare,Full-time,5.7,23.4,4.88,13.2
+1208,,Female,Rideshare,Full-time,2.8,17.4,4.72,
+1209,42,Male,Home Services,Part-time,11.5,27.5,4.06,29.91
+1210,43,Female,Home Services,Part-time,4.3,22.7,4.79,20.54
+1211,37,Male,Rideshare,Part-time,6.9,20.4,4.6,17.56
+1212,42,Male,Freelance Writing,Full-time,11.0,12.8,4.68,22.96
+1213,46,Male,Food Delivery,Full-time,8.0,22.0,4.65,20.21
+1214,35,Female,Food Delivery,Part-time,8.5,25.3,4.78,10.27
+1215,21,Male,Rideshare,Full-time,1.4,15.6,4.71,19.36
+1216,40,Female,Food Delivery,Full-time,8.9,35.7,4.42,10.65
+1217,24,Male,Food Delivery,Part-time,1.8,23.5,4.4,13.46
+1218,47,Male,IT Consulting,Full-time,5.9,51.3,4.54,51.24
+1219,46,Non-binary,Freelance Writing,Full-time,10.9,15.7,3.86,13.68
+1220,28,Male,Rideshare,Full-time,2.3,30.5,4.05,
