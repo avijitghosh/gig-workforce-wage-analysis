@@ -1,7 +1,7 @@
 # ==============================================================================
 # Title: Gig Economy Workforce & Wage Analysis
 # Description: Exploratory Data Analysis, Outlier Detection, and Wage Disparities
-# Author: [Your Name]
+# Author: Avijit Ghosh
 # ==============================================================================
 
 # ------------------------------------------------------------------------------
